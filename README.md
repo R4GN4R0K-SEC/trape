@@ -73,7 +73,7 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/jofpin/trape.git
+git clone https://github.com/R4GN4R0K-SEC/trape.git
 cd trape
 python3 trape.py -h
 ```
